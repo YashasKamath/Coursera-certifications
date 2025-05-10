@@ -1,4 +1,4 @@
-#Coursera certificates of courses completed 
+# Coursera certificates of courses completed 
 
 1. Capstone Retriewing, Processing and Visualizing data with Python
 2. Introduction to Java
